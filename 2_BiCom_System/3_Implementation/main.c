@@ -9,7 +9,6 @@ static void alarmCondition(void);
 static void carCondition(void); 		   
 static void doorCondition(void);  
 
-
 static void windowCondition(void)
 {
 	led_on(LED_ORANGE);
@@ -17,7 +16,6 @@ static void windowCondition(void)
 	led_on(LED_RED);
 	led_on(LED_BLUE);
 }
-
 
 static void alarmCondition(void)
 {
@@ -28,7 +26,6 @@ static void alarmCondition(void)
 }
 static void carCondition(void) 
 {
-
 	led_on(LED_GREEN);
 	my_delay_ms(350);
 	led_off(LED_GREEN);
@@ -48,7 +45,6 @@ static void carCondition(void)
 
 static void doorCondition(void)
 {
-
 	led_on(LED_GREEN);
 	my_delay_ms(350);
 	led_off(LED_GREEN);
@@ -66,10 +62,8 @@ static void doorCondition(void)
 	led_off(LED_GREEN);
 }
 
-
 int main(void)
 {
-
 	led_init_all();
 	button_init();
 
