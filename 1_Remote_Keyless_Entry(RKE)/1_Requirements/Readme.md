@@ -67,4 +67,4 @@ It is useful for everyone.
 It is used mainly in cars.
 
 ## How:
-It is useful for lock and unlock the door by pressing the button on remote
+It is useful for lock and unlock the door by pressing the button on remote.
