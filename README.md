@@ -4,6 +4,6 @@
 | Project | Work Done | By NAME (GITHUB USERNAME) |
 |---|---|---|
 | 1Remote_Keyless_Entry  | Requirements, Report | Sourajit Nath (sourajitnath) |
-| 1Remote_Keyless_Entry |  Architecture, Test plan and output |  Nandan Avadhani (Nandan-Avadhani) |
+| 1Remote_Keyless_Entry |  Architecture |  Nandan Avadhani (Nandan-Avadhani) |
 | 2BiCom_System  |  Requirement, Architecture, Report |  Vaidehi Gouda (VaidehiGouda) |
 | 2BiCom_System  | Implemenation & TestPlan&Output, Report | Madhushree Purohit (madhushreevp) |
