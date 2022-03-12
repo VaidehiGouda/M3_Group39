@@ -57,3 +57,8 @@ The extension of a unidirectional RKE system to a bidirectional RKE system is kn
 | --- | --- |
 | LLR5.1 | Press blue button four times |
 | LLR5.2 | All LEDs on anti- clockwise |
+
+## Applications
+
+- By using the Bi-directional communication it can prevent possible outcomes of stoping the car thief.
+- The Key fob system provided another level of security to the Remote Keyless entry system. 
