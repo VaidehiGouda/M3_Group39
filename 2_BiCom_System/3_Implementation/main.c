@@ -1,7 +1,7 @@
 #if !defined(__SOFT_FP__) && defined(__ARM_FP)
 #endif
 
-#include "own_drivers_and_func.h"
+#include "programmerdefinedfunc.h"
 #include <stdio.h>
 
 static void windowCondition(void);			   
@@ -64,7 +64,12 @@ static void doorCondition(void)
 
 int main(void)
 {
+<<<<<<< HEAD
 	led_init_all();
+=======
+
+	allLed_init();
+>>>>>>> c8b954600fe97bba4934cd1a55ff5d412485aa99
 	button_init();
 
 	while (1)
