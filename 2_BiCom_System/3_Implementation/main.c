@@ -70,7 +70,7 @@ static void doorCondition(void)
 int main(void)
 {
 
-	led_init_all();
+	allLed_init();
 	button_init();
 
 	while (1)
